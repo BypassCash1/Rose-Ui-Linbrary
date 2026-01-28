@@ -3,7 +3,7 @@
 Load the library using the raw URL:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/coolk/Rose-ui-lib/main/ui.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BypassCash1/Rose-Ui-Linbrary/refs/heads/main/UI.Lua"))()
 ```
 
 ## Usage
